@@ -17,7 +17,7 @@ basedir -- 監視対象
 
 ## Usage
 
-wzipfrenamer.exe <WatchDir>
+wzipfrenamer.exe &lt;WatchDir&gt;
 
 ## Settings
 
