@@ -4,6 +4,7 @@ IPFファイルの生成を監視して特定のフォルダに移動させま�
 
 フォルダ構成の制限があります。
 
+```
 basedir -- 監視対象
 └ addonName
 ├ addon_d.ipf
@@ -12,6 +13,7 @@ basedir -- 監視対象
 └ xxx.ipf -- ipftool等で生成
 ...
 └ addonName
+```
 
 ## Usage
 
